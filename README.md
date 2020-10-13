@@ -3,7 +3,7 @@ RedReader (for Android)
 
 An unofficial, open source client for reddit.
 
-Very good
+Very good pls
 
 ![Build Status](https://travis-ci.org/QuantumBadger/RedReader.svg?branch=master)
 [![Translation status](https://hosted.weblate.org/widgets/redreader/-/svg-badge.svg)](https://hosted.weblate.org/engage/redreader/?utm_source=widget)
